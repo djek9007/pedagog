@@ -1,0 +1,77 @@
+.body{
+    background-color: white;
+
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 25px;
+}
+.header-h1 {
+color: #44546a;
+}
+.num{
+    font-size: 50px;
+}
+
+.numberCircle {
+    width: 39.6px;
+    height: 39.6px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 21.6px;
+    border: 2px solid #3498db;
+    color: white;
+    background: #3498db;
+    margin: 20px;
+    align-items: center;
+    top: -20px;
+    right: 0;
+    left: 0;
+}
+.card-for-home{
+    border: #3498db;
+    min-height: 320px;
+}
+
+.trener{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.card-for-couse{
+    height: 350px;
+}
+
+.course{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.news{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.document{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.unique-color-dark {
+    background-color: #333f50 !important; }
+
+footer.page-footer {
+        bottom: 0;
+        color: #fff; 
+    }
+footer.page-footer .container-fluid {
+        width: auto; 
+    }
+footer.page-footer .footer-copyright {
+        overflow: hidden;
+        background-color: #222a35; 
+    }
+footer.page-footer a {
+        color: #fff; 
+    }
+
+    .foot{
+        display: block;
+    }
+    
